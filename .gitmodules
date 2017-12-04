@@ -1,0 +1,9 @@
+[submodule "pup_sysowner"]
+	path = pup_sysowner
+	url = git@github.com:TheChuckMo/pup_sysowner.git
+[submodule "server_sysowner"]
+	path = server_sysowner
+	url = git@github.com:TheChuckMo/server_sysowner.git
+[submodule "client_sysowner"]
+	path = client_sysowner
+	url = git@github.com:TheChuckMo/client_sysowner.git
